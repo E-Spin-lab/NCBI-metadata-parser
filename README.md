@@ -4,7 +4,9 @@ This repository contains NCBI_Metadata_Parser, a Python script designed to gathe
 
 ## Requirements
 
-The python script utilizes the following python libraries: argparse, biopython, and panda
+- The python script utilizes the following python libraries: argparse, biopython, and panda
+- The script requires internet connectivity for NCBI API calls
+- Some metadata may not be available for all accession numbers
 
 ## Usage
 
